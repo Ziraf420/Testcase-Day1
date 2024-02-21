@@ -1,4 +1,8 @@
 <p align="center">
+    http://localhost/basic/web/index.php?r=subscriber%2Findex<br><br>
+    http://localhost/basic/web/index.php?r=dealers%2Findex
+</p>
+<p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
