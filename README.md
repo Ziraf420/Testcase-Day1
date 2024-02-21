@@ -1,6 +1,7 @@
 <p align="center">
     http://localhost/basic/web/index.php?r=subscriber%2Findex<br><br>
-    http://localhost/basic/web/index.php?r=dealers%2Findex
+    http://localhost/basic/web/index.php?r=dealers%2Findex<br><br>
+    nama db nya : test.sql
 </p>
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
